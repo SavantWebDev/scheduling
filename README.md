@@ -1,3 +1,3 @@
-# scheduling
+# Introdução
 
-Agendamento padrão
+## Agendamente de barbearias, clínicas salões.
