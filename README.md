@@ -1,3 +1,3 @@
 # Introdução
 
-## Agendamente de barbearias, clínicas salões.
+## Agendamento de barbearias, clínicas salões.
